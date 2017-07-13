@@ -1,4 +1,4 @@
-package tiy.com.Movies;
+package tiy.com.Movies.unused;
 
 import java.io.Serializable;
 
@@ -8,6 +8,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
+
+import tiy.com.Movies.Movie;
 
 @Entity
 @Table(name = "review")

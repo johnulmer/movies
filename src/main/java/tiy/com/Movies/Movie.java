@@ -31,6 +31,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 
 import io.swagger.annotations.ApiModelProperty;
+import tiy.com.Movies.unused.Review;
+import tiy.com.Movies.unused.Role;
 
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;

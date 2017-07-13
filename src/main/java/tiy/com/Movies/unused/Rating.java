@@ -1,4 +1,4 @@
-package tiy.com.Movies;
+package tiy.com.Movies.unused;
 
 public class Rating {
 	

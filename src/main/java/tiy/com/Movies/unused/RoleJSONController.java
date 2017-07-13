@@ -1,4 +1,4 @@
-package tiy.com.Movies;
+package tiy.com.Movies.unused;
 
 import java.io.Serializable;
 import java.util.List;
@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import tiy.com.Movies.Movie;
 
 @RestController
 @Api(value="Roles", description="JSON operations pertaining to IMDBClone roles")

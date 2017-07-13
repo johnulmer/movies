@@ -1,4 +1,4 @@
-package tiy.com.Movies;
+package tiy.com.Movies.unused;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -23,6 +23,8 @@ import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
+
+import tiy.com.Movies.Movie;
 
 @Entity
 @Table(name = "role")

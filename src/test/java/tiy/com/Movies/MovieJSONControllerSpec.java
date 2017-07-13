@@ -40,7 +40,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration
-@ContextConfiguration(classes = {IMDB.class })
+@ContextConfiguration(classes = {MovieMashup.class })
 
 public class MovieJSONControllerSpec {
 	

@@ -33,10 +33,10 @@ import org.springframework.http.HttpStatus;
 
 @SpringBootApplication
 @EnableSwagger2
-public class IMDB {
+public class MovieMashup {
 	
 	public static void main(String[] args) {
-		SpringApplication.run(IMDB.class, args);
+		SpringApplication.run(MovieMashup.class, args);
 		
 	}
 	

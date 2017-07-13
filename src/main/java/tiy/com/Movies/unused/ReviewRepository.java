@@ -1,4 +1,4 @@
-package tiy.com.Movies;
+package tiy.com.Movies.unused;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
